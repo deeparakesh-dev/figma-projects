@@ -29,5 +29,7 @@ This project explores a **dark-neon-green-spotify-cyber-inspired-theme** while m
 ## Files
 - Figma site file (`spotify-redesigned-ui.site`)
 
+## Links
+- Figma Link ('https://www.figma.com/site/MGbBRaLfXHBeH6i227xHHw/Spotify-reversed-ui?node-id=0-1&t=8VBRySCPdz4AlFdW-1')
 
 > This project is a UI exploration and redesign concept, created for learning and practice purposes only.
